@@ -1,3 +1,7 @@
+[![Gitter](https://badges.gitter.im/deep-learning-ai-research/research-papers.svg)](https://gitter.im/deep-learning-ai-research/research-papers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+
+
 # research-papers
 List of curated research papers on A.I. and Deep Learning
 
